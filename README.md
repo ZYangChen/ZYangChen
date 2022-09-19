@@ -1,9 +1,6 @@
-### 你好，世界 👋
-
-- :orange_book: Focusing on Swift & iOS
-- :hammer: Creator of applications and frameworks
-- :ram: Founder the ObjCCN
-- :meat_on_bone: Meat lover
+### Hello! My name is Ziyang Chen(陈子扬:ram:)! Nice to meet you! 👋
+- 🌱 I’m currently a first-year postgraduate student from GuiZhou University, under the supervision by Prof. Yongjun Zhang(张永军).
+- :hammer: My current research interests lie in binocular stereo matching and data mining.
 <img align="bottom" src="https://github-readme-stats.vercel.app/api?username=ZYangChen&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 
 <!--
@@ -19,4 +16,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- :orange_book: Focusing on Swift & iOS
+- :hammer: Creator of applications and frameworks
+- :ram: Founder the ObjCCN
+- :meat_on_bone: Meat lover
 -->
