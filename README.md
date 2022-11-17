@@ -1,5 +1,5 @@
 ### Hello! My name is Ziyang Chen(陈子扬:ram:)! Nice to meet you! 👋
-- 🌱 I’m currently a first-year postgraduate student from Guizhou University, under the supervision by Prof. Yongjun Zhang(张永军).
+- 🌱 I’m currently a postgraduate student from Guizhou University, under the supervision by Prof. Yongjun Zhang(张永军).
 - 📫 My major is computer science and technology.
 - :hammer: My current research interests lie in binocular stereo matching and data mining.
 <img align="bottom" src="https://github-readme-stats.vercel.app/api?username=ZYangChen&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
