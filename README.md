@@ -2,8 +2,11 @@
 - 🌱 I’m currently a postgraduate student from Guizhou University.
 - 📫 My major is computer science and technology.
 - :hammer: My current research interests lie in binocular stereo matching and data mining.
+<a href="https://github.com/ZYangChen">
+    <img align="center" width="100%" src="https://github-readme-stats.vercel.app/api?usernameZYangChen&theme=nightowl&show_icons=true" />
+</a>
 
-<img align="bottom" src="https://github-readme-stats.vercel.app/api?username=ZYangChen&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
+
 <!--
 
 
