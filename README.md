@@ -3,7 +3,7 @@
 - 📫 My major is computer science and technology.
 - :hammer: My current research interests lie in binocular stereo matching and data mining.
 <a href="https://github.com/ZYangChen">
-    <img align="center" width="80%" src="https://github-readme-stats.vercel.app/api?username=ZYangChen&theme=gruvbox&show_icons=true" />
+    <img align="center" width="80%" src="https://github-readme-stats.vercel.app/api?username=ZYangChen&theme=tokyonight&show_icons=true" />
 </a>
 
 
