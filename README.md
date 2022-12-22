@@ -5,11 +5,7 @@
 <a href="https://github.com/ZYangChen">
     <img align="center" width="80%" src="https://github-readme-stats.vercel.app/api?username=ZYangChen&theme=buefy&show_icons=true" />
 </a>
-<!-- 个人资料徽标 -->
-<div align="center">
-    <a href="https://zyangchen.github.io/"><img src="https://img.shields.io/badge/website-%E4%B8%AA%E4%BA%BA%E7%BD%91%E7%AB%99-blue"></a>&emsp;
-    <img src="https://visitor-badge.glitch.me/badge?page_id=ZYangChen" alt="访客统计" />
-</div>
+
 <!-- Gif -->
 <div align="center">
   <img alt-"html5" src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="100" title="html">
@@ -20,6 +16,12 @@
   <img alt="sublime" src="https://media.giphy.com/media/jnDKffgCfGYOp6cMTK/giphy.gif" width="100" title="sublime">
   <img alt="github" src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100" title="github">
   <img alt="node" src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="85" title="node">
+</div>
+
+<!-- 个人资料徽标 -->
+<div align="center">
+    <a href="https://zyangchen.github.io/"><img src="https://img.shields.io/badge/website-%E4%B8%AA%E4%BA%BA%E7%BD%91%E7%AB%99-blue"></a>&emsp;
+    <img src="https://visitor-badge.glitch.me/badge?page_id=ZYangChen" alt="访客统计" />
 </div>
 
 <!--
