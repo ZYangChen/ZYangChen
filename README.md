@@ -2,9 +2,9 @@
 - 🌱 I’m currently a postgraduate student from Guizhou University.
 - 📫 My major is computer science and technology.
 - :hammer: My current research interests lie in Stereo Vision and Feature Engineering.
-<a href="https://github.com/ZYangChen">
+<!--<a href="https://github.com/ZYangChen">
     <img align="center" width="80%" src="https://github-readme-stats.vercel.app/api?username=ZYangChen&theme=buefy&show_icons=true" />
-</a>
+</a>-->
 
 <!-- Gif -->
 <div align="center">
