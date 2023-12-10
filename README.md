@@ -1,4 +1,4 @@
-### Hello! My name is Ziyang Chen(陈子扬:ram:)! Nice to meet you! 👋
+### Hello! My name is Ziyang Chen(陈子扬🐑)! Nice to meet you! 👋
 - 🌱 I’m currently a postgraduate student from Guizhou University.
 - 📫 My major is computer science and technology.
 - :hammer: My current research interests lie in Stereo Vision and Feature Engineering.
