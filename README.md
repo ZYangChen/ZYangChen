@@ -6,16 +6,16 @@
 
 </div>
 
-#  👋 Hello! 
 
 <table align="center"  width="100%">
     
 <tr><td>
 
-### 🙋 About Me
+# 🙋 About Me
 
-<p>&emsp;&emsp;
-My name is Ziyang Chen(陈子扬🐑)! Nice to meet you! 
+<p>
+    
+### My name is Ziyang Chen(陈子扬🐑)! Nice to meet you! 👋
     
 - 🌱 I'm working on my master's degree at Guizhou University.
 - 📫 My major is computer science and technology.
