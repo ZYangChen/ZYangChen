@@ -3,11 +3,10 @@
 - 📫 My major is computer science and technology.
 - :hammer: My current research interests lie in Stereo Vision and Feature Engineering.
 
+<div align="center">
 <!-- dynamic typing effect 动态打字效果 -->
 <div>
-    <a href="https://blog.sunguoqi.com/">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);Welcome to my homepage!&center=true&size=27" />
-    </a>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);Welcome to my homepage!&center=true&size=27" />
 </div>
 <!-- knock code pictures 敲代码的图片 -->
 <picture>
@@ -19,7 +18,7 @@
 <a href="https://github.com/ZYangChen">
     <img align="center" width="80%" src="https://github-readme-stats.vercel.app/api?username=ZYangChen&theme=buefy&show_icons=true" />
 </a>
-  
+</div>
 
 <!-- Gif -->
 <div align="center">
