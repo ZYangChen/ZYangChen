@@ -10,11 +10,9 @@
 
 <table align="center">
     
-<tr><td>
+<tr><td width="200">
 
 ### 🙋 About Me
-
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/steven.png" />
 
 <p>&emsp;&emsp;
 My name is Ziyang Chen(陈子扬🐑)! Nice to meet you! 
