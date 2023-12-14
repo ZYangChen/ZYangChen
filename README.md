@@ -49,9 +49,8 @@
 
 ### Stereo Vision
 
-<picture>
+
 <img src="https://cdn.jsdelivr.net/gh/ZYangChen/ZYangChen/assets/images/Disparity.gif" />
-</picture>
 
 </td></tr>
 
