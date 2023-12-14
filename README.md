@@ -1,5 +1,4 @@
 
-<img src="https://cdn.jsdelivr.net/gh/ZYangChen/ZYangChen/assets/images/icon.png" />
 
 <div align="center">
     <!-- dynamic typing effect 动态打字效果 -->
@@ -9,6 +8,8 @@
 
 </div>
 
+
+<img src="https://cdn.jsdelivr.net/gh/ZYangChen/ZYangChen/assets/images/icon.png" />
 
 <table align="center"  width="100%">
     
