@@ -1,11 +1,10 @@
-<div align="center">
     
 ### Hello! My name is Ziyang Chen(陈子扬🐑)! Nice to meet you! 👋
 - 🌱 I'm working on my master's degree at Guizhou University.
 - 📫 My major is computer science and technology.
 - :hammer: My current research interests lie in Stereo Vision and Feature Engineering.
 
-
+<div align="center">
 <!-- dynamic typing effect 动态打字效果 -->
 <div>
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);Welcome to my homepage!&center=true&size=27" />
