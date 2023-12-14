@@ -22,7 +22,7 @@
 
 </div>
 
-<table align="center"  width="100%">
+<table align="center"  width="5000">
     
 <tr><td>
 
@@ -51,7 +51,7 @@
 
 ![image](https://github.com/ZYangChen/ZYangChen/blob/main/assets/images/Disparity.gif)
 
-<img src="https://cdn.jsdelivr.net/gh/ZYangChen/ZYangChen/assets/images/icon.png" />
+<img align="center" src="https://cdn.jsdelivr.net/gh/ZYangChen/ZYangChen/assets/images/icon.png" />
 
 
 </td></tr>
