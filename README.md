@@ -5,10 +5,21 @@
     </div>
 </div>
 
-### Hello! My name is Ziyang Chen(陈子扬🐑)! Nice to meet you! 👋
+#  👋 Hello! My name is Ziyang Chen(陈子扬🐑)! Nice to meet you! 
+
+<table>
+  
+<tr><td>
+
+### 🙋 About Me
+
 - 🌱 I'm working on my master's degree at Guizhou University.
 - 📫 My major is computer science and technology.
 - :hammer: My current research interests lie in Stereo Vision and Feature Engineering.
+
+<tr><td>
+
+</table>
 
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
