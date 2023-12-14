@@ -34,9 +34,13 @@
     <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/ZYangChen/ZYangChen/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
 </picture>
 
+<div align="center">
+    
 <a href="https://github.com/ZYangChen">
     <img align="center" width="80%" src="https://github-readme-stats.vercel.app/api?username=ZYangChen&theme=buefy&show_icons=true" />
 </a>
+
+</div>
 
 <!-- Gif -->
 <div align="center">
