@@ -80,6 +80,7 @@
   <img alt="node" src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="85" title="node">
 </div>
 
+<img src="https://cdn.jsdelivr.net/gh/ZYangChen/ZYangChen/assets/images/icon.png" />
 
 <!-- 个人资料徽标 -->
 <div align="center">
