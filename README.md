@@ -34,7 +34,7 @@
     
 - 🌱 I'm working on my master's degree at Guizhou University.
 - 📫 My major is computer science and technology.
-- :hammer: My current research interests lie in Stereo Vision and Feature Engineering.
+- :hammer: My current research interests lie in Feature Engineering and Flow Estimation.
 
 </p>
 
