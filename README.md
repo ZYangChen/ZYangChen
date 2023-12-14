@@ -42,12 +42,13 @@
 </table>
 
 <table>
-
-<tr><td align="center">
-
+    
 # 🌞 Current Interests
 
 ### Stereo Vision
+
+<tr><td align="center">
+
 
 ![image](https://github.com/ZYangChen/ZYangChen/blob/main/assets/images/Disparity.gif)
 
