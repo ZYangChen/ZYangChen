@@ -90,9 +90,6 @@ https://github.com/ZYangChen/ZYangChen/assets/108012397/e80619dd-5907-4f89-9324-
 </div>
 
 
-<!-- ########################################## 分割 ########################################## -->
-<img width="200%" src="https://cdn.jsdelivr.net/gh/ZYangChen/ZYangChen/assets/images/hr.gif" />
-
 <!-- GitHub Activity Graph GitHub 活动图 -->
 <table>
   <tr>
@@ -104,6 +101,11 @@ https://github.com/ZYangChen/ZYangChen/assets/108012397/e80619dd-5907-4f89-9324-
       </picture>
   </tr>
 </table>
+
+
+<!-- ########################################## 分割 ########################################## -->
+<img width="200%" src="https://cdn.jsdelivr.net/gh/ZYangChen/ZYangChen/assets/images/hr.gif" />
+
 
 <!-- GitHub metrics 信息指标 -->
 <div align="center">
