@@ -83,6 +83,13 @@
   </tr>
 </table>
 
+<!-- profile-3d-contrib 3D贡献图-->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/ZYangChen/ZYangChen/profile-3d-contrib/profile-night-rainbow.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/ZYangChen/ZYangChen/profile-3d-contrib/profile-gitblock.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/ZYangChen/ZYangChen/profile-3d-contrib/profile-night-rainbow.svg" />
+</picture>
+
 <!--
 
 
