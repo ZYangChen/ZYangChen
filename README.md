@@ -1,10 +1,16 @@
 ### Hello! My name is Ziyang Chen(陈子扬🐑)! Nice to meet you! 👋
-- 🌱 I’m currently a postgraduate student from Guizhou University.
+- 🌱 I'm working on my master's degree at Guizhou University.
 - 📫 My major is computer science and technology.
 - :hammer: My current research interests lie in Stereo Vision and Feature Engineering.
 <a href="https://github.com/ZYangChen">
     <img align="center" width="80%" src="https://github-readme-stats.vercel.app/api?username=ZYangChen&theme=buefy&show_icons=true" />
 </a>
+  <!-- dynamic typing effect 动态打字效果 -->
+  <div>
+    <a href="https://blog.sunguoqi.com/">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);Welcome to my homepage!&center=true&size=27" />
+    </a>
+  </div>
 
 <!-- Gif -->
 <div align="center">
