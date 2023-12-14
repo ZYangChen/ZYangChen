@@ -9,12 +9,16 @@
 #  👋 Hello! 
 
 <table>
+    
+<tr><td>
 
 ### 🙋 About Me
 My name is Ziyang Chen(陈子扬🐑)! Nice to meet you! 
 - 🌱 I'm working on my master's degree at Guizhou University.
 - 📫 My major is computer science and technology.
 - :hammer: My current research interests lie in Stereo Vision and Feature Engineering.
+
+</td></tr>
 
 </table>
 
