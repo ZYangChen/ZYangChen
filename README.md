@@ -49,7 +49,7 @@
 
 ### Stereo Vision
 
-![image](https://github.com/ZYangChen/ZYangChen/assets/images/Disparity.gif)
+![image](https://github.com/ZYangChen/ZYangChen/blob/main/assets/images/Disparity.gif)
 
 </td></tr>
 
