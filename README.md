@@ -27,6 +27,8 @@
 
 </table>
 
+<!-- ########################################## 分割 ########################################## -->
+<img width="200%" src="https://cdn.jsdelivr.net/gh/ZYangChen/ZYangChen/assets/images/hr.gif" />
 
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/ZYangChen/ZYangChen/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
@@ -62,6 +64,10 @@
     <img src="https://komarev.com/ghpvc/?username=ZYangChen&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
   </div>
 </div>
+
+
+<!-- ########################################## 分割 ########################################## -->
+<img width="200%" src="https://cdn.jsdelivr.net/gh/ZYangChen/ZYangChen/assets/images/hr.gif" />
 
 <!-- GitHub Activity Graph GitHub 活动图 -->
 <table>
