@@ -37,6 +37,12 @@
 
 </p>
 
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/ZYangChen/ZYangChen/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/ZYangChen/ZYangChen/profile-snake-contrib/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/ZYangChen/ZYangChen/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
+</picture>
+
 </td></tr>
 
 </table>
@@ -68,12 +74,6 @@ https://github.com/ZYangChen/ZYangChen/assets/108012397/e80619dd-5907-4f89-9324-
 </td></tr>
 
 </table>
-
-<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/ZYangChen/ZYangChen/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/ZYangChen/ZYangChen/profile-snake-contrib/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/ZYangChen/ZYangChen/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
-</picture>
 
 
 <img src="https://cdn.jsdelivr.net/gh/ZYangChen/ZYangChen/assets/images/icon.png" />
