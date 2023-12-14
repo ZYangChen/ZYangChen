@@ -22,13 +22,13 @@
 
 </div>
 
-<table align="center"  width="1600">
+<table align="center"  width="100%">
     
 <tr><td>
 
 # 🦸‍♂️ About Me
 
-<p>
+<p width="100%">
     
 ### 🐑 My name is Ziyang Chen (陈子扬)! Nice to meet you! 👋
     
@@ -50,6 +50,9 @@
 ### Stereo Vision
 
 ![image](https://github.com/ZYangChen/ZYangChen/blob/main/assets/images/Disparity.gif)
+
+<img src="https://cdn.jsdelivr.net/gh/ZYangChen/ZYangChen/assets/images/icon.png" />
+
 
 </td></tr>
 
