@@ -8,9 +8,9 @@
 
 #  👋 Hello! 
 
-<table align="center">
+<table align="center"  width="100%">
     
-<tr><td width="200">
+<tr><td>
 
 ### 🙋 About Me
 
