@@ -9,6 +9,12 @@
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);Welcome to my homepage!&center=true&size=27" />
     </a>
 </div>
+<!-- knock code pictures 敲代码的图片 -->
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/ZYangChen/ZYangChen/assets/images/coding.gif" />
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/ZYangChen/ZYangChen/assets/images/developer.svg" height="225px" />
+    <img src="https://cdn.jsdelivr.net/gh/ZYangChen/ZYangChen/assets/images/coding.gif" />
+</picture>
 
 <a href="https://github.com/ZYangChen">
     <img align="center" width="80%" src="https://github-readme-stats.vercel.app/api?username=ZYangChen&theme=buefy&show_icons=true" />
