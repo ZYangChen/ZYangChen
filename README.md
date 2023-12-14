@@ -1,3 +1,6 @@
+
+<img src="https://cdn.jsdelivr.net/gh/ZYangChen/ZYangChen/assets/images/icon.png" />
+
 <div align="center">
     <!-- dynamic typing effect 动态打字效果 -->
     <div>
@@ -79,8 +82,6 @@
   <img alt="github" src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100" title="github">
   <img alt="node" src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="85" title="node">
 </div>
-
-<img src="https://cdn.jsdelivr.net/gh/ZYangChen/ZYangChen/assets/images/icon.png" />
 
 <!-- 个人资料徽标 -->
 <div align="center">
