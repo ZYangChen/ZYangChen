@@ -43,7 +43,7 @@
 
 <table>
 
-<tr><td>
+<tr><td align="center">
 
 # 🌞 Current Interests
 
@@ -51,7 +51,7 @@
 
 ![image](https://github.com/ZYangChen/ZYangChen/blob/main/assets/images/Disparity.gif)
 
-<img align="center" src="https://cdn.jsdelivr.net/gh/ZYangChen/ZYangChen/assets/images/icon.png" />
+<!--<img align="center" src="https://cdn.jsdelivr.net/gh/ZYangChen/ZYangChen/assets/images/icon.png" />-->
 
 
 </td></tr>
