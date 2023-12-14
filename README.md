@@ -17,11 +17,12 @@
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/steven.png" />
 
 <p>&emsp;&emsp;
-    My name is Ziyang Chen(陈子扬🐑)! Nice to meet you! 
-</p>
+My name is Ziyang Chen(陈子扬🐑)! Nice to meet you! 
+    
 - 🌱 I'm working on my master's degree at Guizhou University.
 - 📫 My major is computer science and technology.
 - :hammer: My current research interests lie in Stereo Vision and Feature Engineering.
+</p>
 
 </td></tr>
 
