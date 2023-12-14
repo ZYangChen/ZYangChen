@@ -50,7 +50,7 @@
 ### Stereo Vision
 
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/ZYangChen/ZYangChen/assets/images/Disparity.gif" />
+<img src="https://cdn.jsdelivr.net/gh/ZYangChen/ZYangChen/assets/images/Disparity.gif" />
 </picture>
 
 </td></tr>
