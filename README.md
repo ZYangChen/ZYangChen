@@ -22,7 +22,7 @@
 
 </div>
 
-<table align="center"  width="5000">
+<table align="center"  width="100%">
     
 <tr><td>
 
