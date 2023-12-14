@@ -32,10 +32,14 @@
   <img alt="node" src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="85" title="node">
 </div>
 
-<!-- 个人资料徽标 
+<!-- 个人资料徽标 -->
 <div align="center">
-    <a href="https://zyangchen.github.io/"><img src="https://img.shields.io/badge/website-%E4%B8%AA%E4%BA%BA%E7%BD%91%E7%AB%99-blue"></a>
-</div>-->
+    <div>
+    <a href="https://blog.csdn.net/weixin_46124302/"><img src="https://img.shields.io/badge/CSDN-论坛-c32136" /></a>&emsp;
+    <!-- visitor statistics logo 访问量统计徽标 -->
+    <img src="https://komarev.com/ghpvc/?username=ZYangChen&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
+  </div>
+</div>
 
 <!--
 
