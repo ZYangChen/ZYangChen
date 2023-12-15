@@ -51,7 +51,7 @@
 
 <tr><td>
 
-# 🌞 Current Interests
+# 💖 Current Interests
 
 ### Stereo Vision
 
@@ -67,7 +67,7 @@
 
 <tr><td>
     
-### Optical Flow
+### Video Processing
 
 https://github.com/ZYangChen/ZYangChen/assets/108012397/e80619dd-5907-4f89-9324-aaf03751c73f
 
