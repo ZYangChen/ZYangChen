@@ -3,7 +3,7 @@
 <div align="center">
     <!-- dynamic typing effect 动态打字效果 -->
     <div>
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=800&lines=console.log(%22Hello%2C%20World%22);你好！我是陈子扬！计算机视觉研究的爱好者！&center=true&size=27" />
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=800&lines=console.log(%22Hello%2C%20World%22);你好！我是陈子扬！研究计算机视觉方向！&center=true&size=27" />
     </div>
 
     
