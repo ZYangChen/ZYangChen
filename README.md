@@ -81,7 +81,7 @@ https://github.com/ZYangChen/ZYangChen/assets/108012397/e80619dd-5907-4f89-9324-
 <!-- ########################################## 分割 ########################################## -->
 <img width="200%" src="https://cdn.jsdelivr.net/gh/ZYangChen/ZYangChen/assets/images/hr.gif" />
 
-<div align="center">
+<!-- <div align="center">
     
 <a href="https://github.com/ZYangChen">
     <img align="center" width="80%" src="https://github-readme-stats.vercel.app/api?username=ZYangChen&theme=buefy&show_icons=true" />
@@ -91,9 +91,9 @@ https://github.com/ZYangChen/ZYangChen/assets/108012397/e80619dd-5907-4f89-9324-
 
 <br>
 
-<br>
+<br> -->
 
-<!-- GitHub Activity Graph GitHub 活动图
+<!-- GitHub Activity Graph GitHub 活动图 -->
 <table>
   <tr>
     <td>
@@ -103,7 +103,7 @@ https://github.com/ZYangChen/ZYangChen/assets/108012397/e80619dd-5907-4f89-9324-
         <img src="https://github-readme-activity-graph.vercel.app/graph?username=ZYangChen&theme=xcode&bg_color=FF000000&hide_border=true" />
       </picture>
   </tr>
-</table> -->
+</table>
 
 
 <!-- ########################################## 分割 ########################################## -->
