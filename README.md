@@ -79,9 +79,9 @@ https://github.com/ZYangChen/ZYangChen/assets/108012397/e80619dd-5907-4f89-9324-
 <img src="https://cdn.jsdelivr.net/gh/ZYangChen/ZYangChen/assets/images/icon.png" />
 
 <!-- ########################################## 分割 ########################################## -->
-<img width="200%" src="https://cdn.jsdelivr.net/gh/ZYangChen/ZYangChen/assets/images/hr.gif" />
+<!-- <img width="200%" src="https://cdn.jsdelivr.net/gh/ZYangChen/ZYangChen/assets/images/hr.gif" />
 
-<!-- <div align="center">
+<div align="center">
     
 <a href="https://github.com/ZYangChen">
     <img align="center" width="80%" src="https://github-readme-stats.vercel.app/api?username=ZYangChen&theme=buefy&show_icons=true" />
@@ -94,7 +94,7 @@ https://github.com/ZYangChen/ZYangChen/assets/108012397/e80619dd-5907-4f89-9324-
 <br> -->
 
 <!-- GitHub Activity Graph GitHub 活动图 -->
-<table>
+<!-- <table>
   <tr>
     <td>
       <picture>
@@ -105,10 +105,10 @@ https://github.com/ZYangChen/ZYangChen/assets/108012397/e80619dd-5907-4f89-9324-
   </tr>
 </table>
 
-
 <!-- ########################################## 分割 ########################################## -->
 <img width="200%" src="https://cdn.jsdelivr.net/gh/ZYangChen/ZYangChen/assets/images/hr.gif" />
 
+ -->
 
 <!-- GitHub metrics 信息指标 -->
 <div align="center">
