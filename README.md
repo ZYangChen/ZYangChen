@@ -1,5 +1,5 @@
 
-
+<!-- 
 <div align="center">
     <!-- dynamic typing effect 动态打字效果 -->
     <div>
@@ -9,9 +9,10 @@
     
 
 </div>
+ -->
 
 <!-- knock code pictures 敲代码的图片 -->
-
+<!-- 
 <div align="center">
     
 <picture>
@@ -21,6 +22,7 @@
 </picture>
 
 </div>
+ -->
 
 <table align="center"  width="100%">
     
