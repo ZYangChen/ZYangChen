@@ -48,11 +48,27 @@
 
 </table>
 
+<!-- ########################################## 分割 ########################################## -->
+<img width="200%" src="https://cdn.jsdelivr.net/gh/ZYangChen/ZYangChen/assets/images/hr.gif" />
+
+<div align="center">
+    <div>
+    <a href="https://zyangchen.github.io/"><img src="https://img.shields.io/badge/HomePage-主页-cd981d" /></a>&emsp;
+    <a href="https://blog.csdn.net/weixin_46124302/"><img src="https://img.shields.io/badge/CSDN-Blog-c32136" /></a>&emsp;
+    <!-- visitor statistics logo 访问量统计徽标 -->
+    <img src="https://komarev.com/ghpvc/?username=ZYangChen&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
+    </div>
+</div>
+
+<!--
+
 <table>
 
 <tr><td>
 
-# 💖 Current Interests
+
+
+ # 💖 Current Interests
 
 ### Stereo Vision
 
@@ -60,7 +76,7 @@
     
 ![image](https://github.com/ZYangChen/ZYangChen/blob/main/assets/images/Disparity.gif)
 
-<!--<img align="center" src="https://cdn.jsdelivr.net/gh/ZYangChen/ZYangChen/assets/images/icon.png" />-->
+<img align="center" src="https://cdn.jsdelivr.net/gh/ZYangChen/ZYangChen/assets/images/icon.png" />
 
 </p>
 
@@ -76,6 +92,7 @@ https://github.com/ZYangChen/ZYangChen/assets/108012397/e80619dd-5907-4f89-9324-
 
 </table>
 
+-->
 
 <!-- <img src="https://cdn.jsdelivr.net/gh/ZYangChen/ZYangChen/assets/images/icon.png" />
 
@@ -106,9 +123,6 @@ https://github.com/ZYangChen/ZYangChen/assets/108012397/e80619dd-5907-4f89-9324-
   </tr>
 </table>
  -->
-<!-- ########################################## 分割 ########################################## -->
-<img width="200%" src="https://cdn.jsdelivr.net/gh/ZYangChen/ZYangChen/assets/images/hr.gif" />
-
 
 
 <!-- GitHub metrics 信息指标
@@ -131,14 +145,7 @@ https://github.com/ZYangChen/ZYangChen/assets/108012397/e80619dd-5907-4f89-9324-
  -->
 
 <!-- 个人资料徽标 -->
-<div align="center">
-    <div>
-    <a href="https://zyangchen.github.io/"><img src="https://img.shields.io/badge/HomePage-主页-cd981d" /></a>&emsp;
-    <a href="https://blog.csdn.net/weixin_46124302/"><img src="https://img.shields.io/badge/CSDN-Blog-c32136" /></a>&emsp;
-    <!-- visitor statistics logo 访问量统计徽标 -->
-    <img src="https://komarev.com/ghpvc/?username=ZYangChen&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
-  </div>
-</div>
+
 
 </div>
 
