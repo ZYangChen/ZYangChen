@@ -35,6 +35,7 @@
     
 - 🌱 I'm working on my master's degree at Guizhou University.
 - 📫 My major is computer science and technology.
+- 📧 E-mail:ziyangchen2000@gmail.com
 
 </p>
 
