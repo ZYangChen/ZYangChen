@@ -31,7 +31,7 @@
 
 <p width="100%">
     
-### 🐑 My name is Ziyang Chen (陈子扬)! Nice to meet you! <img src="https://github.com/ZYangChen/ZYangChen/blob/main/assets/images/Hii.gif" width="30px">
+### 🐑 My name is Ziyang Chen (陈子扬)! Nice to meet you! <img src="https://github.com/ZYangChen/ZYangChen/blob/main/assets/images/Hii.gif" width="20px">
     
 - 👨🏻‍🎓 I'm working on my master's degree at Guizhou University.
 - 🖥️ My major is computer science and technology.
