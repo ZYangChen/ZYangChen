@@ -56,7 +56,7 @@
     
 <tr><td>
     
-# Selected Works
+# 📖 Selected Works
 
 <div align="center">
 <p width="100%">
