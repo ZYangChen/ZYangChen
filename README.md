@@ -61,10 +61,10 @@
 <div align="center">
 <p width="100%">
 <a href="https://github.com/ZYangChen/MoCha-Stereo">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ZYangChen&repo=MoCha-Stereo" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ZYangChen&repo=MoCha-Stereo&theme=nightowl" />
 </a>
 <a href="https://github.com/ZYangChen/FDN-MVS">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ZYangChen&repo=FDN-MVS" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ZYangChen&repo=FDN-MVS&theme=nightowl" />
 </a>
 </p>
 
