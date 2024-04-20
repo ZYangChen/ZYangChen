@@ -1,5 +1,5 @@
 <!-- dynamic typing effect 动态打字效果 -->
-<!-- 
+<!-- 👋
 <div align="center">
     <div>
         <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=800&lines=console.log(%22Hello%2C%20World%22);你好！我是陈子扬！研究计算机视觉方向！&center=true&size=27" />
@@ -31,7 +31,7 @@
 
 <p width="100%">
     
-### 🐑 My name is Ziyang Chen (陈子扬)! Nice to meet you! 👋
+### 🐑 My name is Ziyang Chen (陈子扬)! Nice to meet you! <img src="https://github.com/ZYangChen/ZYangChen/blob/main/assets/images/Hii.gif" width="30px">
     
 - 👨🏻‍🎓 I'm working on my master's degree at Guizhou University.
 - 🖥️ My major is computer science and technology.
