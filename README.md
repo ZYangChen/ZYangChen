@@ -35,7 +35,7 @@
     
 - 👨🏻‍🎓 I'm working on my master's degree at Guizhou University.
 - 🖥️ My major is computer science and technology.
-- 📧 E-mail: ziyangchen2000@gmail.com
+- 📧 E-mail me at [![Gmail Badge](https://img.shields.io/badge/-ziyangchen2000@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ziyangchen2000@gmail.com)](mailto:ziyangchen2000@gmail.com)
 
 </p>
 
