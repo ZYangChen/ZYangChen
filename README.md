@@ -39,7 +39,7 @@
 
 </p>
 
-<!-- ########################################## 分割 ########################################## -->
+<!-- ########################################## 分割 I am currently pursuing my Ph.D. at Xiamen University.  ########################################## -->
 <img width="200%" src="https://cdn.jsdelivr.net/gh/ZYangChen/ZYangChen/assets/images/hr.gif" />
 <div align="center">
 <picture>
