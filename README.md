@@ -33,13 +33,12 @@
     
 ### <img src="https://github.com/ZYangChen/ZYangChen/blob/main/assets/images/sheep.png" width="25px" /> My name is Ziyang Chen (陈子扬)! Nice to meet you! <img src="https://github.com/ZYangChen/ZYangChen/blob/main/assets/images/Hii.gif" width="20px">:smiley:
     
-- 👨🏻‍🎓 I'm working on my master's degree at Guizhou University.
+- 👨🏻‍🎓 I am currently pursuing my Ph.D. at Xiamen University.
 - 🖥️ My major is computer science and technology.
 - 📧 E-mail me at [![Gmail Badge](https://img.shields.io/badge/-ziyangchen2000@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ziyangchen2000@gmail.com)](mailto:ziyangchen2000@gmail.com)
 
 </p>
 
-<!-- ########################################## 分割 I am currently pursuing my Ph.D. at Xiamen University.  ########################################## -->
 <img width="200%" src="https://cdn.jsdelivr.net/gh/ZYangChen/ZYangChen/assets/images/hr.gif" />
 <div align="center">
 <picture>
