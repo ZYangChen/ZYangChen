@@ -71,6 +71,9 @@
 <a href="https://github.com/ZYangChen/FDN-MVS">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ZYangChen&repo=FDN-MVS&theme=light" />
 </a>
+<a href="https://github.com/ZYangChen/openvla">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ZYangChen&repo=openvla&theme=light" />
+</a>
 </p>
 </div>
 
