@@ -8,6 +8,12 @@
     
 
 </div>
+
+
+<img width="36%" src="https://cdn.jsdelivr.net/gh/ZYangChen/ZYangChen/assets/images/githubgif.gif" />
+
+
+<img alt="sublime" src="https://media.giphy.com/media/jnDKffgCfGYOp6cMTK/giphy.gif" width="100" title="sublime">
  -->
 
 <!-- knock code pictures 敲代码的图片 -->
@@ -81,7 +87,6 @@
 
 <div align="center">
 
-<img width="36%" src="https://cdn.jsdelivr.net/gh/ZYangChen/ZYangChen/assets/images/githubgif.gif" />
 
 
 <div align="center">
@@ -90,7 +95,6 @@
   <img alt="VSCode" src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100" title="vscode">
   <img alt="python" src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100" title="python">
   <img alt="javascript" src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100" title="javascript">
-  <img alt="sublime" src="https://media.giphy.com/media/jnDKffgCfGYOp6cMTK/giphy.gif" width="100" title="sublime">
   <img alt="github" src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100" title="github">
   <img alt="node" src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="85" title="node">
 </div>
