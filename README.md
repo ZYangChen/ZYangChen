@@ -39,6 +39,8 @@
 
 </p>
 
+<img src="https://github-readme-stats.vercel.app/api?username=ZYangChen&show_icons=true" alt="logo" height="160" align="right" style="margin: 5px; margin-bottom: 20px;" />
+
 <img width="200%" src="https://cdn.jsdelivr.net/gh/ZYangChen/ZYangChen/assets/images/hr.gif" />
 <div align="center">
 <picture>
